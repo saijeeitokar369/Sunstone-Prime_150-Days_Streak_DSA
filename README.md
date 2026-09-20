@@ -27,7 +27,7 @@ For the next **150 days**, I am committed to:
 | Progress | Status |
 |----------|--------|
 | 🗓️ Total Days | 150 |
-| 🔥 Current Streak | Day  |
+| 🔥 Current Streak | 2 Day |
 | ✅ Completed | 2 / 150 |
 | 🎯 Goal | 150 Days |
 
