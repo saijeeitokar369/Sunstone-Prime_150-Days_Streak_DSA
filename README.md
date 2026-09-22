@@ -27,8 +27,8 @@ For the next **150 days**, I am committed to:
 | Progress | Status |
 |----------|--------|
 | 🗓️ Total Days | 150 |
-| 🔥 Current Streak | 2 Day |
-| ✅ Completed | 2 / 150 |
+| 🔥 Current Streak | 3 Days |
+| ✅ Completed | 3 / 150 |
 | 🎯 Goal | 150 Days |
 
 > **One problem a day. One step closer to becoming interview-ready.**
